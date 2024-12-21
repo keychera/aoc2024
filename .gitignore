@@ -2,4 +2,4 @@
 .calva
 .lsp
 
-input.txt
+input*.txt
